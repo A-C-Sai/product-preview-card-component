@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/A-C-Sai/product-preview-card-component)
+- Live Site URL: [Add live site URL here](https://a-c-sai.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -72,7 +72,9 @@ I wasn't sure on how to change the product preview image from mobile to desktop 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+- I experimented a lot with widths and max-width to get the correct sizing and layout as you will see in my CSS file, not sure if this is the right approach.
+- Though I was able to use flexbox I am still experimenting with the different flex properties before I land on the correct one. I find flex-grow/shrink and basis the most tricky.
+- This was technically my first time attempting a responsive layout and i'm not sure if I approaced or if my coding practices are correcct.
 
 ## Author
 
